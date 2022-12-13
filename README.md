@@ -11,4 +11,4 @@
 
 ## Features
 Given the number of inputs, the sorting speed and the type of sort, the visualizer allows user to sort a randomely generated array displayed in a reverse histogram plot
-![image](https://user-images.githubusercontent.com/78766367/207362865-726cda71-0216-4760-af95-ac476f918aa1.png)
+![image](https://user-images.githubusercontent.com/78766367/207365939-30c7a244-0006-437f-b573-4426bbbb90b7.png)
