@@ -2,6 +2,7 @@
 
 This JavaScript project provides an interactive platform for visualizing and experimenting with various sorting algorithms. It offers an interface where users can observe the step-by-step process of sorting an array of values represented by bars.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/78766367/207366483-f945459a-5785-44c3-ae14-a93224032606.gif)
 ### Features
 
 - **Algorithm Selection:** Users can choose among popular sorting algorithms like Bubble Sort, Quick Sort, Merge Sort, Heap Sort, and Insertion Sort.
@@ -34,6 +35,3 @@ Feel free to experiment with different algorithms and settings to observe their 
 
 This JavaScript project is a valuable tool for educational purposes, offering a visual aid for understanding the functioning of different sorting algorithms.
 
-
-## Example
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/78766367/207366483-f945459a-5785-44c3-ae14-a93224032606.gif)
